@@ -22,7 +22,7 @@
     <EditText
         android:id="@+id/editFullReg"
         android:layout_width="0dp"
-        android:layout_height="48dp"
+        android:layout_height="49dp"
         android:layout_marginTop="45dp"
         android:hint="Full Name"
         android:inputType="text"
